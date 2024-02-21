@@ -1,4 +1,0 @@
-tes200124-P-N-1	tes200124	Normal
-tes200124-T-N-1	tes200124	Tumor
-tes210075-P-N-1	tes210075	Normal
-tes210075-T-N-1	tes210075	Tumor
