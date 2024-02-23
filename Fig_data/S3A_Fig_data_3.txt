@@ -1,0 +1,2 @@
+chr	start	end	gene	num
+chr3	101280711	101285089	TRMT10C	164
