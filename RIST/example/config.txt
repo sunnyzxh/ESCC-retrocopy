@@ -1,1 +1,12 @@
-
+samtools=../bin/samtools
+reference=ref/hg19_chr12.fasta
+sample_info=demo_sample_info.txt
+gripper_ouput=demo_gripper_output.txt
+refgene=ref/hg19_chr12_refGene.txt
+output=result/demo_result
+bam_dir=data
+##all the items should be changed according to the file directiona and names
+##the reference should be indexed by bwa and samtools
+##the format of sample info should be tab-separated, including sampleID,patientID,tissue types
+##you should cat all the uncategorized.tab.txt files to a single file as the gripper_output
+##you should put/link all the bam files into a single folder and the name of the bam files should be the same/part of the sampleid in the gripper_output and the smaple_info
